@@ -1,0 +1,23 @@
+{
+  "symbol": "AAPL",
+  "hist": {
+    "TRADES_1_day": {
+      "bars": 0,
+      "total_volume": 0,
+      "ok": false
+    },
+    "MIDPOINT_1_day": {
+      "bars": 0,
+      "total_volume": 0,
+      "ok": false
+    }
+  },
+  "generic_ticks": {
+    "volume_100": {
+      "error": "Contract Option(symbol='AAPL', lastTradeDateOrContractMonth='20281215', strike=272.5, right='C', multiplier='100', exchange='SMART', tradingClass='AAPL') can't be hashed because no 'conId' value exists. Qualify contract to populate 'conId'."
+    },
+    "oi_101": {
+      "error": "Contract Option(symbol='AAPL', lastTradeDateOrContractMonth='20281215', strike=272.5, right='C', multiplier='100', exchange='SMART', tradingClass='AAPL') can't be hashed because no 'conId' value exists. Qualify contract to populate 'conId'."
+    }
+  }
+}

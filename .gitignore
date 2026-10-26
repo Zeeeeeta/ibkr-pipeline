@@ -1,0 +1,11 @@
+coredata/data/
+data/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.parquet
+*.csv
+*.csv.gz
+*.pdf
+.venv/
+venv/
